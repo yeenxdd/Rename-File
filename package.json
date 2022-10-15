@@ -1,0 +1,15 @@
+{
+  "name": "rename-file",
+  "version": "1.0.0",
+  "description": "Rename file program",
+  "main": "fs_rename.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rename",
+    "file"
+  ],
+  "author": "Tai Ye En",
+  "license": "ISC"
+}
